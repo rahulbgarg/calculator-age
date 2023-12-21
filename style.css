@@ -1,0 +1,47 @@
+div{
+    box-sizing: border-box;
+    margin: 90px;
+    background-color: #0E2F2F;
+    border-radius: 10px;
+    display:block;
+    width: 700px; 
+    height: 250px;
+    border: 2px solid orange;
+    padding: 20px;
+    text-align: center;
+    font-family: 'ltim', cursive;
+    }
+
+#head{
+    display: block;
+    color: rgb(204, 143, 0);
+    text-shadow: 2px 2px 1px rgb(91, 92, 95);
+    
+}
+#age{
+    color: white;
+    font-size: 15px ;
+    margin: 10px;
+}
+button{
+    border-radius: 5px;
+    background-color: rgb(247, 173, 82);
+    padding:  6px;
+    color: white;
+    margin: 5px;
+    font-family: 'ltim', cursive;
+}
+button:hover{
+    background-color: rgb(83, 83, 82);
+}
+p{
+    color: white;
+}
+.fa{
+    color: white;
+    margin: 5px;
+    padding-top: 15px;
+}
+input[type="date"]{
+    background-color: rgb(156, 156, 159);
+}
